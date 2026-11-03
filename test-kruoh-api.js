@@ -1,7 +1,3 @@
-// test-kruoh-api.js - ไฟล์ทดสอบการเชื่อมต่อ API ครูโอ้ (api.kruoh.dev)
-// นักศึกษา: นายกิตติธัช สฤษชสมบัติ (รหัส 69409010901)
-// วิชา: 24-40901-2103 การพัฒนาเว็บแอพพลิเคชันขั้นสูง
-
 const API_TOKEN = process.env.VITE_API_TOKEN || "cf8a2e1d7490b431e50912fc87920ab35e4d1f88c3a9102b4e5d6c7b8a9012ef";
 
 async function fetchProducts() {
