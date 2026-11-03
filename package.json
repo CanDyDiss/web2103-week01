@@ -1,0 +1,21 @@
+{
+  "name": "campus-shop-lab-week01",
+  "version": "1.0.0",
+  "description": "วิชาการพัฒนาเว็บแอพพลิเคชันขั้นสูง (24-40901-2103) - สัปดาห์ที่ 1 ปฐมนิเทศ & Modern Web Ecosystem 2026",
+  "main": "test-kruoh-api.js",
+  "type": "module",
+  "scripts": {
+    "start": "node test-kruoh-api.js",
+    "check-env": "node check-env.js",
+    "test-api": "node test-kruoh-api.js"
+  },
+  "keywords": [
+    "udvc",
+    "web-dev",
+    "kruoh",
+    "api-tenant",
+    "week01"
+  ],
+  "author": "กิตติธัช สฤษชสมบัติ (69409010901)",
+  "license": "MIT"
+}
